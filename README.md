@@ -2,6 +2,8 @@
 
 Prototype of a sand fall animation in HTML5/Javascript for later implementation on Amstrad CPC. It is a nice effect that can probably be used for a puzzle game.
 
+A [**live demo**](https://bfxdev.github.io/sandfall/sandfall.html) is available as well.
+
 ![demo](sandfall.gif)
 
 ## Rendering
